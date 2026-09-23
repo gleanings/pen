@@ -8,7 +8,7 @@
 
 > [**广子**]
 >
-> 如果有需要在控制台或终端绘制彩色表格的需求，可以使用 [colored-table](https://www.npmjs.com/package/colored-table)
+> 如果有需要在控制台或终端绘制彩色表格的需求，可以使用 [colored-table](https://www.npmjs.com/package/@vvi/table)
 
 ## ANSI 模块相关
 
@@ -262,4 +262,4 @@ console.log(redBoldPen3`红色文本`);
 它使用严格的 TypeScript 编写，并通过 Rollup 构建进行验证。
 虽然单元测试较少，但 API 稳定，并在生产环境中大量使用。
 
-[ANSI]: https://lmssee.com/建站日志/2025/4/22/ANSI%20转义码
+[ANSI]: https://mudbean.cn/建站日志/2025/4/22/ANSI%20转义码

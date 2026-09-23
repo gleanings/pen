@@ -121,7 +121,7 @@ packageJson = {
     'terminal string format',
     'vvi',
   ],
-  homepage: 'https://npm.gleanings.cn/pen',
+  homepage: 'https://npms.gleanings.cn/pen',
   dependencies,
   bugs: {
     url: 'https://github.com/gleanings/pen/issues',

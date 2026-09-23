@@ -1,5 +1,5 @@
 /**
- * #  使用 RGB 设置背景色
+ * # 使用 RGB 设置背景色
  *
  * @param r 构建的 RGB 颜色的 r 值或 RGB 文本值
  * - `r`  为 `string` 时，为 `rgb(r ,g ,b)` 格式，且第二参数和第三参数应为 `undefined`
@@ -34,7 +34,7 @@ export type RGBFunctionWithThreeNumbers = (
 
 export type RGBFunctionWithOnlyString = (rgb: string) => Pen;
 /**
- * #  使用 RGB 设置背景色
+ * # 使用 RGB 设置背景色
  *
  * @param r 构建的 RGB 颜色的 r 值或 RGB 文本值
  * - `r`  为 `string` 时，为 `rgb(r ,g ,b)` 格式，且第二参数和第三参数应为 `undefined`
